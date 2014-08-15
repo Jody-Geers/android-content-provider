@@ -10,8 +10,7 @@
 
 ## API
 
-	see:
-	https://github.com/Jody-Geers/android-content-provider/blob/master/app/src/main/java/com/jodygeers/contentprovider/app/MainActivity.java
+	see <a href="https://github.com/Jody-Geers/android-content-provider/blob/master/app/src/main/java/com/jodygeers/contentprovider/app/MainActivity.java">Here</a>.
 
 ## License
 
