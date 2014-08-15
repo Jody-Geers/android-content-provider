@@ -10,7 +10,7 @@
 
 ## API
 
-	see - app/src/main/java/com/jodygeers/contentprovider/app/MainActivity.java
+  see - app/src/main/java/com/jodygeers/contentprovider/app/MainActivity.java
 
 ## License
 
