@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ISBN" />
+
+    <EditText
+        android:id="@+id/editTextIsbn"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Title" />
+
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent" />
+
+    <Button
+        android:text="Add title"
+        android:id="@+id/btnAddTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="handleAddTitle" />
+
+    <Button
+        android:text="Retrieve titles"
+        android:id="@+id/btnRetrieveTitles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="handleRetrieveTitles" />
+
+</LinearLayout>
